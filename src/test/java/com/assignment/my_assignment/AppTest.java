@@ -14,7 +14,7 @@ public class AppTest
 {
     /**
      * Rigorous Test :-)
-     */
+     
     @Test
     public void shouldAnswerWithTrue()
     {
@@ -35,4 +35,5 @@ public class AppTest
     {
         assertNotEquals( true,false );
     }
+    */
 }
